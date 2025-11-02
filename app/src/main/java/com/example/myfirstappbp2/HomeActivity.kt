@@ -9,10 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.RecyclerView
-// HAPUS import LinearLayoutManager
-// import androidx.recyclerview.widget.LinearLayoutManager
 
-// TAMBAHKAN import GridLayoutManager
 import androidx.recyclerview.widget.GridLayoutManager
 
 class HomeActivity : AppCompatActivity() {
